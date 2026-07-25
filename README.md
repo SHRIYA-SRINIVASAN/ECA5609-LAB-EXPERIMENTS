@@ -13,3 +13,10 @@ communication.
 compared to total available slots. This evaluates the efficiency of TDMA resource usage.
 3. To compute the Number of Allocated Time Slots for multiple users in the GSM system.
 This ensures proper scheduling and interference-free communication.]
+Ex.N.3: Spectrum Analysis of Sub-1 GHz, Mid-band & mmWave by Plotting Propagation
+Loss.1. To compute the Propagation Loss (dB) for Sub-1 GHz, Mid-band, and mmWave
+frequency ranges using standard path loss models.
+2. To evaluate the impact of different Operating Frequencies (GHz) on signal attenuation
+and coverage performance.
+3. To analyze how Communication Distance (km) affects propagation loss across
+different spectrum bands.
